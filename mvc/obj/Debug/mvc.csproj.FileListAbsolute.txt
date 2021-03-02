@@ -1,0 +1,9 @@
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\mvc.csprojResolveAssemblyReference.cache
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\mvc.Properties.Resources.resources
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\mvc.View.MainForm.resources
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\mvc.csproj.GenerateResource.Cache
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Savchenko IST-1-19\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\mvc.View.ItemForm.resources
